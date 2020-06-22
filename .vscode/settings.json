@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.root": "/public",
+    "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+    }
+}
